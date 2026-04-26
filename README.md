@@ -19,7 +19,7 @@ My passion lies in understanding the complete software stack. I enjoy the deep, 
 * Expanding my software development skill set and building projects that bridge the gap between low-level architecture and high-level logic.
 * Actively looking for Student/Junior Software Developer opportunities.
 
-📫 **Let's connect:** [Link to your LinkedIn] | [Email Address]## 
+📫 **Let's connect:** [LinkedIn](https://linkedin.com) | [shaharerez11@gmail.com](mailto:shaharerez11@gmail.com)
 
 <!--
 **shaharerez1/shaharerez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
