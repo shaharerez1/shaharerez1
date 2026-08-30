@@ -1,6 +1,6 @@
 # Hi there, I'm Shahar 👋
 
-I'm a highly motivated Computer Science student at the Open University and a defense system veteran with experience managing complex operational workflows and technical platforms in a top-tier classified environment. I am currently seeking software development or techno-operational roles where I can leverage my strong analytical background and problem-solving skills.
+I'm a highly motivated Computer Science student at the Open University and a defense system veteran with experience managing complex operational workflows and technical platforms in a top-tier classified environment.
 
 My passion lies in understanding the complete software stack. I enjoy the deep, memory-level control of systems programming just as much as designing scalable, object-oriented applications.
 
